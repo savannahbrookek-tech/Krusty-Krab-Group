@@ -1,1 +1,49 @@
+html {
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
 
+body {
+  width: 900px;
+  height: 900px;
+  margin: 0 auto;
+  background-color: rgba();
+  padding: 5px solid rgba();
+  border: 5px solid rgba();
+  font-size: 16px;
+  font-family: ; /* tbd */
+}
+
+nav {
+  max-width: 100%;
+  padding: 0.5em;
+  position: static;
+  top: 0px;
+  /*background-color: rgba();*/
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.menu img {
+  /* image class for menu item */
+  /* must be applied in HTML as <div class="menu"><img src="..." /></div> */
+}
+
+.contact img {
+  /* image class for contact item */
+  /* must be applied in HTML as <div class="contact"><img src="..." /></div> */
+}
+
+/* Future style wish list:
+1. Add hover effects to navigation items
+2. Menu item images flip over to reveal the name of the item
+3. Bubbles float across the screen when you open each tab/page */
