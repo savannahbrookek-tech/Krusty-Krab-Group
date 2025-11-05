@@ -1,5 +1,5 @@
 html {
-  background-image: url("");
+  background-image: url("INSERT IMG HERE");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -9,11 +9,11 @@ body {
   width: 900px;
   height: 900px;
   margin: 0 auto;
-  background-color: rgba();
-  padding: 5px solid rgba();
-  border: 5px solid rgba();
+  background-color: rgba(/*INSERT BCKRND COLOR HERE*/);
+  padding: 5px solid rgba(/*INSERTCOLOR*/);
+  border: 5px solid rgba(/*INSERT COLOR*/);
   font-size: 16px;
-  font-family: ; /* tbd */
+  font-family: ; /* INSERT FONT FMLY */
 }
 
 nav {
@@ -21,7 +21,7 @@ nav {
   padding: 0.5em;
   position: static;
   top: 0px;
-  /*background-color: rgba();*/
+  background-color: rgba(/*INSERT COLOR*/);
 }
 
 nav ul {
@@ -32,6 +32,8 @@ nav ul {
   justify-content: space-between;
   overflow: hidden;
 }
+
+/*IGNORE BELOW*/
 
 .menu img {
   /* image class for menu item */
