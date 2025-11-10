@@ -4,4 +4,4 @@ In this project, our goal is to create a working website for the Krusty Krab tha
 
 Our group members include: Savannah Kimball, Lauren McConaughey, and Leah Stiff (formerly) 
 
- Savannah was in charge of the html writing, Leah was in charge of the CSS writing (with Savannah taking over when she left), and Lauren was in charge of the content writing/style choices.
+ Savannah was in charge of the html writing, Leah was in charge of and handled most of the CSS writing (with Savannah taking over when she left), and Lauren was in charge of the content writing/style choices.
